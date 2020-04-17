@@ -1,6 +1,6 @@
-# mongodb-basics
-Database and Collection
+# crud-basics
+CRUD
 
-![](img/mongo%20and%20mongod%20files.PNG)
-![](img/database.PNG)
-![](img/interns%20collection.PNG)
+![](img/interns.PNG)
+![](img/findInterns.PNG)
+![](img/updateInterns.PNG)
