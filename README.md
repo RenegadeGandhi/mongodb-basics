@@ -2,5 +2,5 @@
 CRUD
 
 ![](img/interns.PNG)
-![](img/findInterns.PNG)
+![](img/findinterns.PNG)
 ![](img/updateInterns.PNG)
